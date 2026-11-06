@@ -1,14 +1,14 @@
-# DunaTV Privacy Policy
+# MuslimEcho Privacy Policy
 
 _Last updated: 6 November 2026_
 
-DunaTV is a prayer-times, adhan and Qur'an app for Android TV / Google TV. It is built to collect
+MuslimEcho is a prayer-times, adhan and Qur'an app for Android TV / Google TV. It is built to collect
 nothing about you.
 
 ## The short version
 
 - **No account, no sign-in.**
-- **No ads, no analytics, no tracking.** DunaTV contains no advertising, analytics or
+- **No ads, no analytics, no tracking.** MuslimEcho contains no advertising, analytics or
   crash-reporting libraries. The only Google library is Google Play Billing, used solely for the
   optional "buy us a coffee" tips.
 - **We don't collect, sell or share personal data.** We (the developer) don't run any server and
@@ -19,13 +19,13 @@ nothing about you.
 
 Your settings (city and its coordinates, calculation method, adhan choices, language, display
 preferences) and small caches (today's verse, mosque photo, downloaded adhkar and Qur'an text) are
-kept in the app's private storage on the TV. Uninstalling DunaTV deletes them.
+kept in the app's private storage on the TV. Uninstalling MuslimEcho deletes them.
 
-If **Android backup** is turned on for your Google account, Android may include a copy of the DunaTV
+If **Android backup** is turned on for your Google account, Android may include a copy of the MuslimEcho
 settings in your device backup (stored by Google, encrypted, under your account) so they come back
 after a reinstall. Turn it off in the TV's Settings → System → Backup.
 
-## When DunaTV connects to the internet
+## When MuslimEcho connects to the internet
 
 Prayer times, the adhan and the bundled hadith work without internet. The features below fetch
 public content when you use them. These requests contain no identifiers or account data (the
@@ -42,12 +42,12 @@ reveal your TV's IP address to the service that answers them.
 | Mosque of the Day | commons.wikimedia.org, upload.wikimedia.org | The day's photo and its credit |
 | Screensaver weather (can be turned off in Settings → Screensaver) | api.open-meteo.com | Today's forecast for your city's coordinates, rounded to about 10 km |
 
-Each service has its own privacy policy. DunaTV sends them no identifiers, cookies or account data.
+Each service has its own privacy policy. MuslimEcho sends them no identifiers, cookies or account data.
 
 ## Optional support tips
 
 The Support tab lets you "buy us a coffee" through Google Play. The payment is handled entirely by
-Google Play under Google's terms and privacy policy (https://policies.google.com/privacy). DunaTV
+Google Play under Google's terms and privacy policy (https://policies.google.com/privacy). MuslimEcho
 only learns whether the purchase went through; it never sees your name, email or payment details,
 and doesn't store or send any purchase information. Tips are optional and unlock nothing.
 
@@ -63,11 +63,11 @@ and doesn't store or send any purchase information. Tips are optional and unlock
 | Display over other apps (optional) | Show the small adhan card with a Stop button on top of other apps |
 | Google Play billing | The optional support tips |
 
-DunaTV doesn't use the microphone, camera, contacts, precise location or storage.
+MuslimEcho doesn't use the microphone, camera, contacts, precise location or storage.
 
 ## Children
 
-DunaTV is suitable for all ages and collects no data from anyone, including children.
+MuslimEcho is suitable for all ages and collects no data from anyone, including children.
 
 ## Changes
 
@@ -75,5 +75,5 @@ If this policy changes, the new version will be published at the same address wi
 
 ## Contact
 
-Questions or requests: write to the developer at the email address shown on DunaTV's Google Play
+Questions or requests: write to the developer at the email address shown on MuslimEcho's Google Play
 listing (under "App support").
