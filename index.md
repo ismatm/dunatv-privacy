@@ -1,6 +1,6 @@
 # DunaTV Privacy Policy
 
-_Last updated: 5 November 2026_
+_Last updated: 6 November 2026_
 
 DunaTV is a prayer-times, adhan and Qur'an app for Android TV / Google TV. It is built to collect
 nothing about you.
@@ -8,8 +8,9 @@ nothing about you.
 ## The short version
 
 - **No account, no sign-in.**
-- **No ads, no analytics, no tracking, no third-party SDKs.** DunaTV contains no advertising,
-  analytics or crash-reporting libraries.
+- **No ads, no analytics, no tracking.** DunaTV contains no advertising, analytics or
+  crash-reporting libraries. The only Google library is Google Play Billing, used solely for the
+  optional "buy us a coffee" tips.
 - **We don't collect, sell or share personal data.** We (the developer) don't run any server and
   receive nothing from the app.
 - **Your settings stay on your TV.** Prayer times are calculated on the device, offline.
@@ -27,8 +28,9 @@ after a reinstall. Turn it off in the TV's Settings → System → Backup.
 ## When DunaTV connects to the internet
 
 Prayer times, the adhan and the bundled hadith work without internet. The features below fetch
-public content when you use them. These requests contain no personal data, but like any internet
-request they reveal your TV's IP address to the service that answers them.
+public content when you use them. These requests contain no identifiers or account data (the
+weather request includes your city's approximate location), and like any internet request they
+reveal your TV's IP address to the service that answers them.
 
 | Feature | Service | What is requested |
 |---|---|---|
@@ -38,8 +40,16 @@ request they reveal your TV's IP address to the service that answers them.
 | Qur'an recitation | download.quranicaudio.com, mp3quran.net | The audio of the surah you play |
 | Adhkar (morning & evening) | www.hisnmuslim.com | The adhkar text and recitation audio |
 | Mosque of the Day | commons.wikimedia.org, upload.wikimedia.org | The day's photo and its credit |
+| Screensaver weather (can be turned off in Settings → Screensaver) | api.open-meteo.com | Today's forecast for your city's coordinates, rounded to about 10 km |
 
 Each service has its own privacy policy. DunaTV sends them no identifiers, cookies or account data.
+
+## Optional support tips
+
+The Support tab lets you "buy us a coffee" through Google Play. The payment is handled entirely by
+Google Play under Google's terms and privacy policy (https://policies.google.com/privacy). DunaTV
+only learns whether the purchase went through; it never sees your name, email or payment details,
+and doesn't store or send any purchase information. Tips are optional and unlock nothing.
 
 ## Permissions
 
@@ -51,6 +61,7 @@ Each service has its own privacy policy. DunaTV sends them no identifiers, cooki
 | Foreground service (media playback), wake lock | Play the adhan while another app is open or the screen is dimmed |
 | Notifications | Show the playing adhan with a Stop button |
 | Display over other apps (optional) | Show the small adhan card with a Stop button on top of other apps |
+| Google Play billing | The optional support tips |
 
 DunaTV doesn't use the microphone, camera, contacts, precise location or storage.
 
