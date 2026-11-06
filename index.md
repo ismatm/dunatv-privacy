@@ -49,7 +49,9 @@ Each service has its own privacy policy. MuslimEcho sends them no identifiers, c
 The Support tab lets you "buy us a coffee" through Google Play. The payment is handled entirely by
 Google Play under Google's terms and privacy policy (https://policies.google.com/privacy). MuslimEcho
 only learns whether the purchase went through; it never sees your name, email or payment details,
-and doesn't store or send any purchase information. Tips are optional and unlock nothing.
+and its own code doesn't store or send any purchase information. The Google Play Billing Library
+included in the app exchanges the purchase with Google Play, which is why the Play Store's Data
+safety section lists "Purchase history". Tips are optional and unlock nothing.
 
 ## Permissions
 
